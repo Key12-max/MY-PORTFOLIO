@@ -1,10 +1,21 @@
 footer{
-    background-color: #333;
+    background-color: #312f2f;
     padding: 10px 0;
-    color: #fff;
+    color: hsl(0, 0%, 95%);
     text-align: center;
 }
 footer .container{
     max-width: 800px;
     margin: 0 auto;
+}
+.social-links {
+    align-items: center;
+}
+.img-icons{
+    align-items:center ;
+    font-size:  7rem;
+    max-width: 800px;
+    margin: 0 auto;
+    display: inline;
+    padding: 20px;
 }
